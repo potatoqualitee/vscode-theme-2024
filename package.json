@@ -2,7 +2,7 @@
 	"name": "vscode-theme-2024",
 	"displayName": "2024",
 	"description": "Based on 1984 unbolded, updated and mixed with Dark Modern.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "potatoqualitee",
 	"engines": {
 		"vscode": "^1.90.0"
@@ -12,7 +12,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/potatoqualitee/2024"
+		"url": "https://github.com/potatoqualitee/vscode-theme-2024"
 	},
 	"keywords": [
 		"purple",
