@@ -2,8 +2,8 @@
 	"name": "vscode-theme-2024",
 	"displayName": "2024",
 	"description": "Based on 1984 unbolded, updated and mixed with Dark Modern.",
-	"version": "1.0.2",
-	"publisher": "potatoqualitee",
+	"version": "1.0.3",
+	"publisher": "chrissylemaire",
 	"engines": {
 		"vscode": "^1.90.0"
 	},
